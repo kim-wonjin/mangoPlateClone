@@ -1,11 +1,12 @@
 # 망고플레이트 서버 클론 코딩 개발일지 
 
-🔗API 명세서 [https://docs.google.com/spreadsheets/d/1riNj1IYHcNoY3rj8wMnDFQGuaflnQgHHPDPYg0FbBtw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1riNj1IYHcNoY3rj8wMnDFQGuaflnQgHHPDPYg0FbBtw/edit?usp=sharing)
 
-🔗ERD
+[🔗API 명세서 ](https://docs.google.com/spreadsheets/d/1riNj1IYHcNoY3rj8wMnDFQGuaflnQgHHPDPYg0FbBtw/edit?usp=sharing)
 
-URL : [https://aquerytool.com/aquerymain/index/?rurl=d3536a04-956d-4aea-aba3-0a82a5928014&](https://aquerytool.com/aquerymain/index/?rurl=d3536a04-956d-4aea-aba3-0a82a5928014&)
+
+[🔗ERD](https://aquerytool.com/aquerymain/index/?rurl=d3536a04-956d-4aea-aba3-0a82a5928014&)
 Password : 7o3ffx
+
 
 ## 🔥 2022-05-21 토요일
 
